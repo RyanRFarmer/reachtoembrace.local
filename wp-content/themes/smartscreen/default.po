@@ -1,0 +1,1944 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-01-14 18:28+0330\n"
+"PO-Revision-Date: 2013-01-14 18:28+0330\n"
+"Last-Translator: Mohsen <highthemes.com@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:\\Users\\VAIO\\Desktop\\smartscreen\n"
+
+#: C:\Users\VAIO\Desktop\smartscreen/404.php:12
+#: C:\Users\VAIO\Desktop\smartscreen/archive.php:25
+#: C:\Users\VAIO\Desktop\smartscreen/author.php:21
+#: C:\Users\VAIO\Desktop\smartscreen/index.php:21
+#: C:\Users\VAIO\Desktop\smartscreen/page.php:112
+#: C:\Users\VAIO\Desktop\smartscreen/search.php:17
+msgid "Toggle"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/404.php:24
+msgid "Top"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/archive.php:15
+msgid "Category : "
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/archive.php:16
+msgid "Tag : "
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/archive.php:22
+msgid "Author : "
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/archive.php:38
+#: C:\Users\VAIO\Desktop\smartscreen/author.php:39
+#: C:\Users\VAIO\Desktop\smartscreen/index.php:42
+#: C:\Users\VAIO\Desktop\smartscreen/page.php:135
+#: C:\Users\VAIO\Desktop\smartscreen/search.php:35
+msgid "There's no post here yet!"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/archive.php:44
+#: C:\Users\VAIO\Desktop\smartscreen/author.php:45
+#: C:\Users\VAIO\Desktop\smartscreen/index.php:48
+#: C:\Users\VAIO\Desktop\smartscreen/search.php:41
+msgid "Previous Page"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/archive.php:44
+#: C:\Users\VAIO\Desktop\smartscreen/author.php:45
+#: C:\Users\VAIO\Desktop\smartscreen/index.php:48
+#: C:\Users\VAIO\Desktop\smartscreen/search.php:41
+msgid "Next Page"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/author.php:17
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/comments.php:4
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/comments.php:15
+msgid "Comments"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/comments.php:19
+#: C:\Users\VAIO\Desktop\smartscreen/comments.php:33
+msgid "Comment navigation"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/comments.php:20
+#: C:\Users\VAIO\Desktop\smartscreen/comments.php:34
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/comments.php:21
+#: C:\Users\VAIO\Desktop\smartscreen/comments.php:35
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/comments.php:40
+msgid "Comments are closed."
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/content-audio.php:6
+#: C:\Users\VAIO\Desktop\smartscreen/content-link.php:10
+#: C:\Users\VAIO\Desktop\smartscreen/content-quote.php:8
+#: C:\Users\VAIO\Desktop\smartscreen/content-video.php:8
+#: C:\Users\VAIO\Desktop\smartscreen/content.php:35
+msgid "Leave a Comment"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/content-audio.php:6
+#: C:\Users\VAIO\Desktop\smartscreen/content-link.php:10
+#: C:\Users\VAIO\Desktop\smartscreen/content-quote.php:8
+#: C:\Users\VAIO\Desktop\smartscreen/content-video.php:8
+#: C:\Users\VAIO\Desktop\smartscreen/content.php:35
+msgid "1 Comment"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/content-audio.php:6
+#: C:\Users\VAIO\Desktop\smartscreen/content-link.php:10
+#: C:\Users\VAIO\Desktop\smartscreen/content-quote.php:8
+#: C:\Users\VAIO\Desktop\smartscreen/content-video.php:8
+#: C:\Users\VAIO\Desktop\smartscreen/content.php:35
+msgid "% Comments"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/content.php:47
+msgid "Continue Reading &rarr;"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/footer.php:3
+msgid "Scroll"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/footer.php:36
+msgid "ShutDown"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/header.php:122
+msgid "menu toggle"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/search.php:14
+#, php-format
+msgid "Search results for %s"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/searchform.php:4
+msgid "Search.."
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/classes/class.options_machine.php:856
+msgid "Last Backup : "
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/classes/class.options_machine.php:915
+msgid "Upload"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/front-end/options.php:4
+msgid "Options Updated"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/front-end/options.php:8
+#: C:\Users\VAIO\Desktop\smartscreen/admin/front-end/options.php:68
+msgid "Options Reset"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/front-end/options.php:12
+msgid "Error!"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/front-end/options.php:28
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/front-end/options.php:37
+msgid "Expand"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/front-end/options.php:43
+#: C:\Users\VAIO\Desktop\smartscreen/admin/front-end/options.php:67
+msgid "Save All Changes"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.interface.php:34
+msgid "Sidebars"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.mediauploader.php:24
+msgid "Options"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.mediauploader.php:214
+msgid "Gallery"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.mediauploader.php:214
+msgid "Previously Uploaded"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.metaboxes.php:48
+msgid "All Items"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.metaboxes.php:72
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.metaboxes.php:480
+msgid "Override Page Title"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.metaboxes.php:73
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.metaboxes.php:481
+msgid "By default, the page name will display as the title, you can override it here."
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.metaboxes.php:78
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.metaboxes.php:327
+msgid "Disable Sidebar?"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.metaboxes.php:79
+msgid "Check this box to disable sidebar."
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.metaboxes.php:84
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.metaboxes.php:299
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.metaboxes.php:487
+msgid "Slideshow Status"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.metaboxes.php:85
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.metaboxes.php:300
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.metaboxes.php:488
+msgid "You can override the slideshow status for this page/post."
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.metaboxes.php:90
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.metaboxes.php:305
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.metaboxes.php:493
+msgid "Default Settings"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.metaboxes.php:94
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.metaboxes.php:309
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.metaboxes.php:497
+msgid "Enable Slideshow"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.metaboxes.php:98
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.metaboxes.php:313
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.metaboxes.php:501
+msgid "Disable Slideshow"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.metaboxes.php:105
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.metaboxes.php:320
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.metaboxes.php:508
+msgid "Slideshow Category"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.metaboxes.php:106
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.metaboxes.php:156
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.metaboxes.php:321
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.metaboxes.php:509
+msgid "Check the categories you wish to show items from"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.metaboxes.php:112
+msgid "Page Type"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.metaboxes.php:113
+msgid "Select the type of the page, if you want to create special pages like portfolio, contact, etc."
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.metaboxes.php:118
+msgid "Page"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.metaboxes.php:122
+msgid "Contact Page"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.metaboxes.php:126
+msgid "Sub-Blog"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.metaboxes.php:130
+msgid "Classic Portfolio"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.metaboxes.php:134
+msgid "Filterable Portfolio"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.metaboxes.php:140
+msgid "Items per Page"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.metaboxes.php:141
+msgid "Enter the number of items you like to display per page"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.metaboxes.php:147
+msgid "Sub-Blog Category"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.metaboxes.php:148
+msgid "Check the categories you wish to show items from in the sub blog"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.metaboxes.php:155
+msgid "Portfolio Category"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.metaboxes.php:163
+msgid "Portfolio Layouts"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.metaboxes.php:164
+msgid "Select your desired layout for portfolio page."
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.metaboxes.php:169
+msgid "1 Column"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.metaboxes.php:173
+msgid "2 Columns"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.metaboxes.php:177
+msgid "3 Columns"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.metaboxes.php:181
+msgid "4 Columns"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.metaboxes.php:328
+msgid "Check to disable sidebar"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.metaboxes.php:333
+msgid "Featured image on single page"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.metaboxes.php:334
+msgid "You can enable/disable featured image on this page."
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.metaboxes.php:339
+msgid "Select An Option"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.metaboxes.php:343
+msgid "Enable"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.metaboxes.php:347
+msgid "Disable"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.metaboxes.php:353
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.metaboxes.php:517
+msgid "Embed Video "
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.metaboxes.php:354
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.metaboxes.php:518
+msgid "To embed a video, you can paste its link here.  what type? (http://www.no-margin-for-errors.com/projects/prettyphoto-jquery-lightbox-clone/)"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.metaboxes.php:359
+msgid "External Link for Link Post Format "
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.metaboxes.php:360
+msgid "Paste an external link address, if you've chosen \"link\" post format type. "
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.metaboxes.php:523
+msgid "Extra Information "
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.metaboxes.php:524
+msgid "Here you can enter a little more about the project. For example designer: John Smith<br/>"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.metaboxes.php:659
+msgid "Disable Caption?"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.metaboxes.php:660
+msgid "Check this box to disable caption for this item."
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.metaboxes.php:813
+msgid "Select a Sidebar"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.metaboxes.php:827
+msgid "Sidebar Alignment"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.metaboxes.php:833
+msgid "Select Sidebar Alignment"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.metaboxes.php:837
+msgid "Right Sidebar"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.metaboxes.php:841
+msgid "Left Sidebar"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.metaboxes.php:848
+msgid "Custom Sidebar"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:72
+msgid "RSS Feed"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:73
+msgid "Enter your rss feed url here"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:77
+msgid "Twitter ID"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:78
+msgid "Enter your twitter id here, e.g. thehighthemes"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:82
+msgid "Facebook Profile"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:83
+msgid "Enter your facebook profile url here"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:87
+msgid "Google Plus Profile"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:88
+msgid "Enter your gplus profile url here"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:92
+msgid "Flickr Profile"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:93
+msgid "Enter your flickr profile url here"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:98
+msgid "LinkedIn Profile"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:99
+msgid "Enter your linkedin profile url here"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:104
+msgid "Vimeo Profile"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:105
+msgid "Enter your Vimeo profile url here"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:110
+msgid "Behance Profile"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:111
+msgid "Enter your Behance profile url here"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:117
+msgid "Picasa Profile"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:118
+msgid "Enter your Picasa profile url here"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:124
+msgid "Dribble Profile"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:125
+msgid "Enter your Dribble profile url here"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:132
+msgid "Digg Profile"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:133
+msgid "Enter your Digg profile url here"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:140
+msgid "Blogger Profile"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:141
+msgid "Enter your Blogger profile url here"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:147
+msgid "Delicious Profile"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:148
+msgid "Enter your Delicious profile url here"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:154
+msgid "Tumblr Profile"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:155
+msgid "Enter your Tumblr profile url here"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:161
+msgid "Yahoo Profile"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:162
+msgid "Enter your Yahoo profile url here"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:169
+msgid "General Settings"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:174
+msgid "Main Sidebar Layout"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:175
+msgid "Select main content and sidebar alignment. Choose between left, right or full-width layout."
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:185
+msgid "Fixed or Responsive?"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:186
+msgid ""
+"By default the theme adapts to the screen size of the visitor and uses a layout best suited.\n"
+"                        You can disable this behavior so the theme will only show the default layout without adaptation"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:194
+msgid "404 Error Custom Message"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:195
+msgid "You can write your own 404 error message here.."
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:200
+msgid "Upload Logo"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:201
+msgid "Upload your logo here, or define the URL directly"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:206
+msgid "Breadcrumb"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:207
+msgid "Enable or disable breadcrumb navigation in all pages."
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:212
+msgid "Social Bookmarks"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:213
+msgid "Enable or disable social bookmarks in all pages."
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:218
+msgid "Related Posts for Portfolio items"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:219
+msgid "Check this box to disable related items for portfolio items."
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:224
+msgid "Custom Favicon"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:225
+msgid "Upload a 16px x 16px Png/Gif image that will represent your website's favicon."
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:229
+msgid "Tracking Code"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:230
+msgid "Paste your Google Analytics (or other) tracking code here. This will be added into the footer template of your theme."
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:235
+msgid "Page Navi Pagination?"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:236
+msgid "By default, the theme uses wp-pagenavi, uncheck this box if you don't want it. "
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:241
+msgid "Footer?"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:242
+msgid "Check this box if you like to disable footer blocks"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:247
+msgid "Footer Text"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:248
+msgid "Enter a copyright or something else at the very bottom of the pages."
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:253
+msgid "Your email address for contact page"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:254
+msgid "Enter your email address. used for sending emails from contact page."
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:259
+msgid "Captcha for contact form?"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:260
+msgid "Check this box if you like to disable contact page captcha"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:267
+msgid "Slideshow Settings"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:270
+msgid "Slideshow"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:271
+msgid "Uncheck this box to disable the slideshow for all pages."
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:276
+msgid "Slideshow Caption"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:277
+msgid "Enable / Disable slideshow caption here."
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:282
+msgid "Slideshow Thumbnails"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:283
+msgid "When you check this box, an icon will be shown on the footer of homepage. When a user clicks on it, slideshow thumbnail images will display. You can disable/enable it here."
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:288
+msgid "Slideshow Play/Pause Buttons"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:289
+msgid "Enable / Disable slideshow Buttons Here."
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:294
+msgid "Slideshow Progress Bar"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:295
+msgid "Enable / Disable slideshow progres bar here."
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:300
+msgid "Randomize Slideshow Rotating Order"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:301
+msgid "If you like to use a random order for slideshow items, check this box."
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:306
+msgid "Choose Transition Effect"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:307
+msgid "Choose a transition effect."
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:314
+msgid "Number of seconds"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:315
+msgid "Seconds between each transition? "
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:325
+msgid "Blog Settings"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:329
+msgid "Exclude Categories"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:330
+msgid "Excluded categories from the main blog."
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:336
+msgid "Post Images Height"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:337
+msgid "You can change the default height of post featured images here. "
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:342
+msgid "Disable Featured images at top of posts"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:343
+msgid "check this box to disable featured images at top of posts. You can always override this option on each post by post options."
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:353
+msgid "Styling Options"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:356
+msgid "Body Font"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:357
+msgid "Specify the body font properties"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:362
+msgid "Headings Font"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:363
+msgid "Specify the Headings font properties"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:368
+msgid "Sidebar Heading Font"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:369
+msgid "Specify the Sidebar Heading font properties"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:374
+msgid "Sidebar Heading Font Color"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:375
+msgid "Pick a color for the sidebar headings."
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:381
+msgid "Navigation Font"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:382
+msgid "Specify the Navigation font properties"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:387
+msgid "Navigation Font Color"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:388
+msgid "Pick a color for the navigation font."
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:393
+msgid "Navigation Separator Line Color"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:394
+msgid "Pick a color for the navigation separator line."
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:399
+msgid "Navigation Sub-Title Font Color"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:400
+msgid "Pick a color for the navigation sub-title font."
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:405
+msgid "Page Title Color"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:406
+msgid "You may would like to change the page title color, here you can do it."
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:411
+msgid "Link Color"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:412
+msgid "Pick a color for the links."
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:417
+msgid "Link Hover Color"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:418
+msgid "Choose the color you'd like applied to links when they are hovered over."
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:424
+msgid "Custom CSS"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:425
+msgid "Quickly add some CSS to your theme by adding it to this block."
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:435
+msgid "Backgrounds"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:438
+msgid "Body Background Color"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:439
+msgid "Pick a background color for the theme."
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:444
+msgid "Main Background Color"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:445
+msgid "Pick a background color for Menu, Caption, Sidebar , etc."
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:450
+msgid "Background Pattern (boxed layout)"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:451
+msgid "If you choose boxed layout for the theme, you can select a background image from the list below."
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:459
+msgid "Backup Options"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:462
+msgid "Backup and Restore Options"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:466
+msgid "You can use the two buttons below to backup your current options, and then restore it back at a later time. This is useful if you want to experiment on the options but would like to keep the old settings in case you need it back."
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:469
+msgid "Transfer Theme Options Data"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.options.php:473
+msgid "You can tranfer the saved options data between different installs by copying the text inside the text box. To import data from another install, replace the data in the text box with the one from another install and click \"Import Options\""
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.php:285
+msgid "Primary Navigation of "
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.php:324
+msgid "Second Featured Image"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.php:331
+msgid "Third Featured Image"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.php:338
+msgid "Fourth Featured Image"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.php:345
+msgid "Fifth Featured Image"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.php:450
+msgid "Published today"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.php:453
+msgid "1 day ago"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.php:456
+msgid " days ago"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.php:500
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.php:538
+msgid "Related Posts"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.php:591
+msgid "Default Sidebar"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.php:782
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.php:794
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.php:837
+msgid "Full name"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.php:843
+msgid "Email"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.php:848
+msgid "Website URL"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.php:863
+msgid "Comment"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.php:868
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.php:874
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.php:886
+msgid "Leave a Reply"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.php:887
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.php:888
+msgid "<span>Cancel reply</span>"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.php:889
+msgid "Post Comment"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/functions.php:911
+msgid "The author didn't add any Information to his profile yet. "
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/portfolio.php:13
+msgid "Portfolio"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/portfolio.php:14
+msgid "Portfolio Item"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/portfolio.php:15
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/slideshow.php:16
+msgid "Add New"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/portfolio.php:16
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/slideshow.php:17
+msgid "Add New Item"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/portfolio.php:17
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/slideshow.php:18
+msgid "Edit Item"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/portfolio.php:18
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/slideshow.php:19
+msgid "New Item"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/portfolio.php:19
+msgid "View Portfolio Item"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/portfolio.php:20
+msgid "Search Portfolio Items"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/portfolio.php:21
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/slideshow.php:22
+msgid "No items found"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/portfolio.php:22
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/slideshow.php:23
+msgid "No items found in Trash"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/portfolio.php:63
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/slideshow.php:77
+#, php-format
+msgid "Item updated. <a href=\"%s\">View Item</a>"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/portfolio.php:64
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/slideshow.php:78
+msgid "Custom field updated."
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/portfolio.php:65
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/slideshow.php:79
+msgid "Custom field deleted."
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/portfolio.php:66
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/slideshow.php:80
+msgid "Item updated."
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/portfolio.php:68
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/slideshow.php:82
+#, php-format
+msgid "Item restored to revision from %s"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/portfolio.php:69
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/slideshow.php:83
+#, php-format
+msgid "Item published. <a href=\"%s\">View Item</a>"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/portfolio.php:70
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/slideshow.php:84
+msgid "Item saved."
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/portfolio.php:71
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/slideshow.php:85
+#, php-format
+msgid "Item submitted. <a target=\"_blank\" href=\"%s\">Preview Item</a>"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/portfolio.php:72
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/slideshow.php:86
+#, php-format
+msgid "Item scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Preview Item</a>"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/portfolio.php:75
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/slideshow.php:89
+msgid "Item draft updated. "
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/portfolio.php:86
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/slideshow.php:102
+msgid "Thumbnail"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/portfolio.php:110
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/slideshow.php:126
+msgid "None"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/sidebars.php:88
+msgid "Sidebar Name:"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/sidebars.php:89
+msgid "Enter a name for the new sidebar."
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/sidebars.php:157
+msgid "Here's the list of available sidebars"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/sidebars.php:169
+msgid "Delete"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/slideshow.php:15
+msgid "Slideshow Item"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/slideshow.php:20
+msgid "View Slideshow Item"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/slideshow.php:21
+msgid "Search Slideshow Items"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:20
+msgid "The most recent posts with thumbnails"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:22
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:35
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:125
+msgid "Recent Posts"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:133
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:299
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:584
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:672
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:822
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:942
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:1058
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:1157
+msgid "Title:"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:138
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:503
+msgid "Number of Posts:"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:156
+msgid "Displays 6 ads blocks"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:158
+msgid "Custom Ads"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:180
+msgid "Advertisement"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:304
+msgid "Ad 1 image url:"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:309
+msgid "Ad 1 link url:"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:314
+msgid "Ad 2 image url:"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:319
+msgid "Ad 2 link url:"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:324
+msgid "Ad 3 image url:"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:329
+msgid "Ad 3 link url:"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:334
+msgid "Ad 4 image url:"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:339
+msgid "Ad 4 link url:"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:344
+msgid "Ad 5 image url:"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:349
+msgid "Ad 5 link url:"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:354
+msgid "Ad 6 image url:"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:359
+msgid "Ad 6 link url:"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:364
+msgid "Randomize ads order?"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:386
+msgid "The most popular posts with thumbnails"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:388
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:410
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:491
+msgid "Popular Posts"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:498
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:124
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:202
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:320
+msgid "Title: "
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:521
+msgid "Recent tweets"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:523
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:534
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:576
+msgid "Recent Tweets"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:590
+msgid "Number of Tweets:"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:608
+msgid "Showing subpages on sidebar"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:610
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:626
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:665
+msgid "Sub Pages"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:694
+msgid "Pulls in images from your Flickr account."
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:696
+msgid "Flickr"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:712
+msgid "Photos on Flickr "
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:749
+msgid "Flickr ID "
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:754
+msgid "Number:"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:773
+msgid "Embed a Video"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:775
+msgid "Embed Video"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:786
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:812
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:59
+msgid "Video"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:827
+msgid "URL:"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:846
+msgid "Google Maps Widget"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:848
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:928
+msgid "Google Map"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:863
+msgid "Map"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:947
+msgid "Zoom Level: (1-19)"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:952
+msgid "Latitude:"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:957
+msgid "Longitude:"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:962
+msgid "Map Type:"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:964
+msgid "ROADMAP"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:965
+msgid "SATELLITE"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:966
+msgid "HYBRID"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:967
+msgid "TERRAIN"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:972
+msgid "Info Bubble Content:"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:993
+msgid "Contact Details for Sidebar"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:995
+msgid "Contact Details"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:1008
+msgid "Contact"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:1046
+msgid "Contact Info"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:1063
+msgid "Text:"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:1068
+msgid "Contact Details:"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:1089
+msgid "Small 40x40 clients logos"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:1091
+msgid "Logos List"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:1103
+msgid "Logos"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:1137
+msgid "Clients Logos"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/functions/widgets.php:1162
+msgid "Logo Details:"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:8
+msgid "You are not allowed to be here"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:43
+msgid "Select the Style Shortcode you would like to insert into the post."
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:46
+msgid "Select Custom Shortcode:"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:49
+msgid "No Style"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:51
+msgid "Misc"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:52
+msgid "Googel Map"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:53
+msgid "Progress Bar"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:54
+msgid "Social Icons"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:56
+msgid "Testimonial"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:57
+msgid "Tooltip"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:58
+msgid "Call To Action Box"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:60
+msgid "Code"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:61
+msgid "Pre"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:64
+msgid "Pricing Table"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:65
+msgid "3 Column"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:66
+msgid "4 Column"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:67
+msgid "5 Column"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:70
+msgid "DropCap"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:71
+msgid "Drop Cap1"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:72
+msgid "Drop Cap2"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:73
+msgid "Drop Cap3"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:76
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:78
+msgid "Divider"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:77
+msgid "Divider Top"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:79
+msgid "Divider 2Dot"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:80
+msgid "Divider 3Dot"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:83
+msgid "Callout / Pullquote"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:84
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:97
+msgid "Left Aligned"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:85
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:98
+msgid "Right Aligned"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:86
+msgid "Pullquote"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:89
+msgid "Highlights"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:90
+msgid "Yello"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:91
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:144
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:270
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:302
+msgid "Black"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:92
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:137
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:217
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:263
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:295
+msgid "Red"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:95
+msgid "Image alignment/lightbox"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:96
+msgid "Image With Lightbox Effect"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:99
+msgid "Centered"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:102
+msgid "Tabs, Accordings, Toggle"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:103
+msgid "Tabs"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:104
+msgid "Accordion"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:121
+msgid "Generate Buttons"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:128
+msgid "Link: "
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:135
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:293
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:330
+msgid "Background Color"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:138
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:264
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:296
+msgid "Magenta"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:139
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:265
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:297
+msgid "Pink"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:140
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:220
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:266
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:298
+msgid "Orange"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:141
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:216
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:267
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:299
+msgid "Green"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:142
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:218
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:268
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:300
+msgid "Blue"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:143
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:269
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:301
+msgid "Grey"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:145
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:271
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:303
+msgid "Purple"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:150
+msgid "Button Size: "
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:152
+msgid "Small"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:153
+msgid "Medium"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:154
+msgid "Large"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:159
+msgid "Button Type: "
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:161
+msgid "Simple"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:162
+msgid "Glossy"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:175
+msgid "List Icons"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:179
+msgid "List Type"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:181
+msgid "Dotted"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:182
+msgid "Dashed"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:183
+msgid "Line"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:184
+msgid "Check"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:185
+msgid "Circle Bullet"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:186
+msgid "Arrow"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:199
+msgid "Info Boxes"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:206
+msgid "Box Type: "
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:208
+msgid "Title Only"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:209
+msgid "With Description"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:214
+msgid "Box Color: "
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:219
+msgid "Silver"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:225
+msgid "Box Icon: "
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:227
+msgid "NO ICON"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:228
+msgid "Note"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:229
+msgid "RSS"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:230
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:336
+msgid "Heart"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:231
+msgid "Info"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:232
+msgid "Close"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:233
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:338
+msgid "Download"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:234
+msgid "Warning"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:235
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:337
+msgid "Twitter"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:236
+msgid "Star"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:237
+msgid "Error"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:254
+msgid "Simple Boxes"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:257
+msgid "Border Size (px): "
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:261
+msgid "Border Color"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:285
+msgid "Titled Boxes"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:288
+msgid "Title : "
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:317
+msgid "Links with icons"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:324
+msgid "URL: "
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:333
+msgid "Print"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:334
+msgid "Add"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:335
+msgid "Start"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:339
+msgid "Phone"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:340
+msgid "Link"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:341
+msgid "External Link"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:355
+msgid "Cancel"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/admin/tinymce/window_post.php:359
+msgid "Insert"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/includes/contact_action.php:11
+msgid "Please enter your name."
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/includes/contact_action.php:27
+msgid "Please enter email address."
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/includes/contact_action.php:40
+msgid "Please enter your valid email address."
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/includes/contact_action.php:56
+msgid "Please enter captcha."
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/includes/contact_action.php:67
+msgid "Please enter captcha correctly"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/includes/contact_action.php:81
+msgid "Please enter your message."
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/includes/contact_action.php:103
+msgid "New Message By"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/includes/contact_action.php:103
+msgid "on"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/includes/contact_action.php:104
+msgid " has contacted you"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/includes/contact_action.php:105
+msgid "Comment: "
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/includes/contact_action.php:106
+msgid "Email: "
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/includes/contact_action.php:107
+msgid "website: "
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/includes/contact_action.php:115
+msgid "Message Sent Successfully!"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/includes/contact_action.php:119
+msgid "Thank you "
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/includes/contact_action.php:119
+msgid "your message has been submitted to us."
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/includes/related_posts.php:25
+msgid "Related Projects"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/includes/sitemap_content.php:1
+msgid "Pages"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/includes/sitemap_content.php:5
+msgid "Feeds"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/includes/sitemap_content.php:7
+msgid "Main RSS"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/includes/sitemap_content.php:8
+msgid "Comment Feed"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/includes/sitemap_content.php:12
+msgid "Categories"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/includes/sitemap_content.php:16
+msgid "Portfolio/Gallery"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/includes/sitemap_content.php:40
+msgid "Archives"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/includes/lib/breadcrumb.php:132
+msgid "404 - Page not Found"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/includes/lib/breadcrumb.php:134
+msgid "Search"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/includes/lib/wp_pagenavi.php:202
+msgid "Page %CURRENT_PAGE% of %TOTAL_PAGES%"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/includes/lib/wp_pagenavi.php:205
+msgid "&laquo; First"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/includes/lib/wp_pagenavi.php:206
+msgid "Last &raquo;"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/includes/templates/single_folio.php:23
+msgid "&larr; Previous"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/includes/templates/single_folio.php:24
+msgid "Next &rarr;"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/includes/templates/tpl_contact.php:28
+msgid "Send us a message"
+msgstr ""
+
+#: C:\Users\VAIO\Desktop\smartscreen/includes/templates/tpl_portfolio_1col_filtered.php:77
+#: C:\Users\VAIO\Desktop\smartscreen/includes/templates/tpl_portfolio_2col_filtered.php:75
+#: C:\Users\VAIO\Desktop\smartscreen/includes/templates/tpl_portfolio_3col_filtered.php:75
+#: C:\Users\VAIO\Desktop\smartscreen/includes/templates/tpl_portfolio_4col_filtered.php:75
+msgid "All Categories"
+msgstr ""
+

@@ -1,0 +1,543 @@
+/*
+Theme Name: Reach To Embrace
+Description: Child theme for the Smart Screen theme 
+Author: Highlands Presbyterian Church
+Template: smartscreen
+*/
+
+@import url("../smartscreen/style.css");
+
+
+
+/* table of contents
+
+1. General
+2. Navigation
+3. Homepage Items
+4. Content Styling
+5. Slider
+6. Footer
+7. Caption
+9. Tabs
+10. Sidebar
+11. Buttons
+12. Responsive
+
+*/
+
+/* 1. General */
+
+#menu-wrap {
+	width: 290px;
+	background: #fff!important;
+	padding: 26px 0 50px 0;
+	border-radius: 0;
+	border-left: 5px solid #e5e5e5;
+	border-right: 5px solid #e5e5e5;
+	border-bottom: 5px solid #e5e5e5;
+}
+
+#menu {
+    width: 100%;
+}
+
+#logo {
+    display: block;
+    text-align: center;
+}
+
+#progress-bar {
+	background: url('images/progress_bar.png') repeat-y top;
+}
+
+#main, #controls-wrap {
+    border-top:none!important;
+}
+
+#thumb-tray {
+    bottom:0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0)!important;
+    height: 150px;
+    width: 100%;
+    overflow: hidden;
+    text-align: center;
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+    box-shadow:none;
+    padding: 10px 0;
+}
+
+ul#thumb-list li img {
+    border-radius:0;
+    border: 4px solid #fff;
+}
+
+ul#thumb-list li {
+    background: none;
+    border-radius: 0;
+    overflow: visible;
+}
+
+#controls-wrap {
+    background-color: rgba(0, 0, 0, 0.5)!important;
+}
+
+#wrap {
+    left: 400px;
+}
+
+#wrap.no-sidebar #main {
+    width: 775px;
+}
+
+/* 2. Navigation */
+
+#nav a {
+	color:#a0a0a0;
+}
+
+.jqueryslidemenu ul li:last-child, #nav-toggle-content ul li:last-child {
+    border-bottom:1px solid #e5e5e5;
+}
+
+.jqueryslidemenu ul li:first-child, #nav-toggle-content ul li:first-child {
+    border-top:1px solid #e5e5e5;
+}
+
+.jqueryslidemenu ul li, #nav-toggle-content ul li {
+    margin: 0;
+    padding:0;
+}
+
+.jqueryslidemenu ul li a, #nav-toggle-content ul li a{
+    margin: 0;
+    padding: 12px 0 12px 20px;
+}
+
+
+
+.jqueryslidemenu ul li a:hover, #nav-toggle-content ul li a:hover {
+background: #f2f2f2;
+border-left:5px solid #00a94f;
+margin-left: -5px;
+}
+
+#menu-toggle {
+	background: url('images/arrow.png') no-repeat;
+	height: 18px;
+	width: 36px;
+	bottom: 0;
+}
+
+#menu-toggle.active {
+	background: url('images/arrow.png') no-repeat 0 -18px;
+	bottom: 10px;
+}
+
+ul.sub-menu{
+	background: #f2f2f2!important;
+	border: none;
+	padding: 0;
+	width: 250px!important;
+}
+
+.jqueryslidemenu ul li ul {
+	border: none;
+	padding: 0;
+}
+
+.jqueryslidemenu ul li ul li {
+	border: none;
+	padding: 0;
+
+}
+
+#nav ul li ul li a:hover{
+	background: url('images/subnav_bg.png') no-repeat -30px 5px;
+	border-left: none;
+	margin-left: 0;
+	color: #fff!important;
+	min-width: 290px;
+}
+
+#nav-horizontal ul li a:link, #nav-horizontal ul li a:active, #nav-horizontal ul li a:visited{
+    color: #A0A0A0;
+     font-family: Open Sans,sans-serif;
+}
+
+#nav-horizontal ul li ul {
+    border:none;
+    padding: 0;
+}
+
+#nav-horizontal ul li li {
+    margin: 0;
+    padding: 0;
+}
+
+#nav-horizontal ul li ul li a {
+    padding: 15px 5px;
+    margin: 0;
+    display:block;  
+}
+
+#nav-horizontal ul li ul li a:hover {
+    border:none;
+    color: #fff;
+    background: url('images/subnav_bg.png') no-repeat -30px 5px;
+}
+
+
+
+/* 4. Content Styling */
+
+#main {
+    font-size: 1.3em;
+    line-height: 1.5em;
+   border-bottom-left-radius:0;
+    border-bottom-right-radius:0;
+    background: url('images/content_footer.jpg') no-repeat bottom #fff;
+
+ }
+
+ .s-green {
+ 	background-color: #00a94f;
+ }
+ .titled-box-header {
+ 	font-size: 1.2em!important;
+ 	font-weight: 800;
+ }
+
+ .titled-box-header span {
+    padding: 5px 15px;
+    letter-spacing: 0;
+    text-transform: uppercase;
+}
+
+.titled-box {
+ 	font-size: 0.9em;
+ }
+
+ .simple-box, .titled-box {
+    padding: 5px 15px;
+}
+
+
+#entries h2.page-title {
+    color: #444444;
+    font-weight: 800;
+    text-transform: uppercase;
+}
+
+#main .entry h3.need_title {
+    font-size: 2.4em;
+    font-weight: 300;
+}
+
+.dropcap2 {
+    border-radius: 2px 2px 2px 2px;
+    background-color: #00a94f!important;
+}
+
+.pullquote {
+    background: url("images/openquote.png") no-repeat scroll right top transparent;
+    text-align: left;
+    width: 100%;
+}
+
+#entries .pullquote p {
+    padding: 0 40px 0 15px!important;
+}
+
+
+.pullquote cite {
+     font-family: Open Sans,sans-serif;
+     color: #000;
+     font-style: normal;
+}
+
+#entries .entry p {
+    color: #333333;
+}
+
+#wtnr_sidebar {
+    background: #f2f2f2;
+    padding: 15px;
+    color: #000;
+    display: block;
+}
+
+#wtnr_sidebar:hover {
+    background-color: #e4e4e4;
+}
+
+#wtnr_sidebar span{
+    font-weight: 800;
+    font-size: 3em;
+    line-height: 1em;
+    color: #00a94f;
+    display: block;
+}
+
+body.page-id-134 #entries-box, body.page-id-134 #entries .entry p {
+    color: #fff;
+
+}
+
+#wtnr_worship {
+    padding: 30px 30px 80px 30px; 
+    background: url('images/wtnr_worship.jpg') no-repeat bottom left #00a94f;
+}
+
+#wtnr_teaching {
+    padding: 30px 30px 80px 30px; 
+    background: url('images/wtnr_teaching.jpg') no-repeat bottom left #00ccda;
+
+}
+
+#wtnr_nurture {
+    padding: 30px 30px 80px 30px; 
+    background: url('images/wtnr_nurture.jpg') no-repeat bottom left #00a94f;
+
+}
+
+#wtnr_reaching {
+    padding: 30px 30px 80px 30px; 
+    background: url('images/wtnr_reaching.jpg') no-repeat bottom left #ffaa15;
+
+}
+
+#wtnr_worship .one_third, #wtnr_teaching .one_third, #wtnr_nurture .one_third, #wtnr_reaching .one_third {
+    font-weight: 800;
+    text-transform: uppercase;
+    font-size: 2em;
+    display: block;
+    margin-bottom: 25px;
+}
+
+.wtnr_underline {
+        background: url('images/wtnr_underline2.png') repeat-x bottom;
+}
+
+body.page .social-bookmarks ul li {
+    background-color: rgba(0, 0, 0, 0.5)!important;
+
+}
+
+.one_half img {
+    max-width: 100%;
+}
+
+ul.dottedlist strong {
+    background: none repeat scroll 0 0 #00A94F;
+    color: #FFFFFF;
+    display: inline-block;
+    font-weight: 800;
+    padding: 5px 8px;
+    text-align: center;
+}
+
+
+ul.dottedlist li {
+    font-size: 0.75em;
+}
+
+/* 7. Caption */
+
+#slidecaption {
+	bottom: 50%;
+	background: none!important;
+	right: 15%;
+
+
+}
+
+#slidecaption p{
+	font-size: 1.5em;
+	padding-left: 100px;
+	line-height: 1.3em;
+    font-family: Open Sans,sans-serif;
+}
+
+#slidecaption h2 {
+	font-weight: 800;
+	text-transform: uppercase;
+	font-size: 7.5em;
+	line-height: 0.8em;
+}
+
+#slidecaption span {
+	background: url('images/wtnr_underline.png') repeat-x bottom;
+}
+
+
+.slider-caption a {
+    color: #fff!important;
+}
+
+/* 12. Responsive */
+
+@media screen and (max-width: 1224px){
+
+#wrap.no-sidebar #main {
+    width: inherit;
+}
+
+#wrap {
+    left:335px;
+}
+
+
+}
+/* Table Vertical*/
+@media screen and (max-width: 998px){
+ 
+ #wrap.no-sidebar #main {
+    width: 640px;
+}
+
+#wrap {
+    left:inherit;
+}
+ 
+#slidecaption {
+    background: none repeat scroll 0 0 transparent !important;
+    bottom: 25%;
+    right: 27%;
+} 
+
+#menu-wrap {
+    width: 708px;
+    padding: 26px 0 15px;
+}
+
+
+}
+
+@media screen and (max-width: 830px){
+   
+   #wrap.no-sidebar #main {
+    width: 580px;
+}
+
+#wrap {
+    left:0;
+}
+
+
+
+}
+
+@media screen and (max-width:768px){
+
+#wrap.no-sidebar #main {
+    width: 480px;
+}
+
+#wrap {
+    left:inherit;
+}
+
+
+#menu-wrap {
+    width: 550px;
+}
+   
+}
+
+/* Mobile Horizontal*/
+@media screen and (max-width:650px){
+
+#wrap.no-sidebar #main {
+    width: 330px;
+}
+
+#wrap {
+    left:0;
+}
+
+#wtnr_sidebar {
+    margin-top: 15px;
+
+}
+
+#menu-wrap {
+    width: 300px;
+}
+
+
+
+
+ #nav-toggle-content {
+    margin-top: 20px;
+ }
+ 
+ #nav-toggle-content ul.menu li a{
+    color: #A0A0A0;
+    font-family: Open Sans,sans-serif;
+}
+
+#nav-toggle-content ul li ul li {
+    margin: 0;
+    padding: 0;
+}
+
+ul.sub-menu {
+    width: inherit!important;
+}
+
+
+#slidecaption {
+    bottom: auto;
+    display: block !important;
+    font-size: 0.7em;
+    margin-top: 100px;
+    position: relative;
+    right: auto;
+    width: 100%;
+}
+
+
+#slidecaption h2 {
+    font-size: 6em;
+    font-weight: 800;
+    line-height: 0.8em;
+    text-align: center;
+    margin-bottom: 25px;
+ }
+
+#slidecaption p {
+    margin: 0 auto;
+    padding: 0 25px;
+    text-align: center;
+    font-size: 1.9em;
+}
+
+}
+
+/* Mobile Vertical*/
+@media screen and (max-width: 480px){
+
+#wrap.no-sidebar #main {
+    width: 230px;
+}
+
+
+
+#wrap {
+    left:inherit;
+    width: 300px
+}
+
+
+#nav-toggle-content {
+         font-weight: 800;
+
+}
+
+
+
+
+   
+}

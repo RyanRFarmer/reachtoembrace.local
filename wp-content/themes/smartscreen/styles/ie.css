@@ -1,0 +1,13 @@
+#menu-wrap {
+    background: #000 url("../images/menu_hl.png") no-repeat;
+    filter: alpha(opacity = 70);
+}
+#sidebar {
+    filter: alpha(opacity = 80);
+}
+#main {
+    background-color: #fff;
+}
+#controls-wrap, #social-bar, #slidecaption {
+    filter: alpha(opacity = 70);
+}
