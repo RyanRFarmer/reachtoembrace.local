@@ -343,6 +343,69 @@ ul.dottedlist li {
     font-size: 0.75em;
 }
 
+.wpcf7 input {
+    background: none repeat scroll 0 0 #f2f2f2;
+    border: medium none;
+    color: #727272;
+    margin: 5px 0;
+    padding: 10px;
+    border-bottom: 1px solid #00A94F;
+}
+
+#entries .entry .wpcf7 p {
+     color: #00A94F;
+}
+
+.wpcf7 textarea {
+        background: none repeat scroll 0 0 #f2f2f2;
+        border-bottom: 1px solid #00A94F;
+}
+
+#entries .entry .wpcf7-submit {
+    background: #00A94F;
+    color: #fff;
+    cursor: pointer;
+}
+
+.toggle-item {
+    background: #00A94F;
+    color: #fff;
+    border-radius: 0;
+    box-shadow: none;
+    border-bottom: 0;
+    padding: 15px 0;
+    border-right: 0;
+    margin: 10px 0;
+}
+
+.toggle-item span.arrow {
+    color:#63da9b;
+    background:url("images/toggle_acc.png") no-repeat scroll 0 0 transparent;
+}
+
+
+.toggle-head .minus .arrow, .acc-head .current .arrow {
+background: url("images/toggle_acc.png") no-repeat scroll -10px 0 transparent;
+}
+
+
+.toggle-item h3 {
+        color: #fff;
+}
+
+#entries .entry .toggle-body p{
+    color: #baecd1;
+}
+
+#entries .page-title {
+    margin-bottom: 30px;
+}
+
+div.entry a.topbuttonlinks {
+    color: #00A94F!important;
+    display: block;
+}
+
 /* 7. Caption */
 
 #slidecaption {
@@ -365,6 +428,11 @@ ul.dottedlist li {
 	text-transform: uppercase;
 	font-size: 7.5em;
 	line-height: 0.8em;
+}
+
+#slidecaption h2 span.vision {
+    margin-left: 90px;
+    background: none;
 }
 
 #slidecaption span {
@@ -512,6 +580,12 @@ ul.sub-menu {
     padding: 0 25px;
     text-align: center;
     font-size: 1.9em;
+}
+
+
+#slidecaption h2 span.vision {
+    background: none repeat scroll 0 0 transparent;
+    margin-left: 0px;
 }
 
 }
