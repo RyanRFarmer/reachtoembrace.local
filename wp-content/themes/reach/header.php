@@ -2,6 +2,7 @@
 <!DOCTYPE html>
 <html <?php language_attributes(); ?>>
 <head>
+<meta name="google-site-verification" content="qEbuMyPm4g1fST026AEITbab78nkPUAGXiRZHdpBjCI" />
 <meta charset="<?php bloginfo( 'charset' ); ?>" />
 <?php global $data; ?>
 <title><?php wp_title( '|', true, 'right' ); ?></title>
